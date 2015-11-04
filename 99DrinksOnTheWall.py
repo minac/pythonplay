@@ -1,6 +1,11 @@
+#!/usr/bin/env python
+
+### EDIT THIS PART ###
 startDrinks = 99
 drinkSpeed = 1
 drink = "beer"
+
+### THIS IS WHERE THE ACTION IS ###
 for q in range(startDrinks, 0, -drinkSpeed):
     # prep
     if q == 1:
