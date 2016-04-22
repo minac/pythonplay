@@ -1,2 +1,2 @@
 # pythonplay
-For python short exercises
+For python short exercises and deployment
